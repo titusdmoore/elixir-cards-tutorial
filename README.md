@@ -1,6 +1,6 @@
 # Cards
 
-**TODO: Add description**
+My first project in elixir, generates decks of cards, shuffles, and other misc. card activities.
 
 ## Installation
 
